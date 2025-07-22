@@ -24,7 +24,6 @@ This roadmap outlines a structured path to becoming a proficient AI/ML Engineer.
 - [ ] Book: *"Probability and Statistics for Engineers and Scientists"* (by Ronald E. Walpole et al.)
 - [ ] Book: *An Introduction to Statistical Learning (ISLR) *
 - [ ] Book: *The Elements of Statistical Learning book - A more advanced and rigorous companion to ISLR.*
-- [ ] Book: *Pattern Recognition and Machine Learning by Christopher Bishop (Bishop) - A comprehensive and highly rigorous text, suitable after a solid foundational understanding.*
 
 
 ---
